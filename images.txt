@@ -4,5 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-docker.getcollate.io/keking/kkfileview:5.0.2
+keking/kkfileview:5.0.2
 
